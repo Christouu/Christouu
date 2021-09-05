@@ -1,0 +1,4 @@
+- 👋 Hi, I’m @Christouu(Kristiyan Petkov)
+- 👀 I’m interested in technology
+- 🌱 I’m currently learning React.js and Node.js
+- 📫 How to reach me - kristiyan.svetoslavov.petkov@gmail.com
