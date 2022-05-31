@@ -1,5 +1,4 @@
 - 👋 Hi, I’m @Christouu(Kristiyan Petkov)
-- 💻 I'm Junior Web Developer (MERN stack)
+- 💻 I'm Junior Web Developer (MERN and MEAN stack)
 - 👀 I’m interested in technology
-- 🌱 I’m currently learning Angular
 - 📫 How to reach me - kristiyan.svetoslavov.petkov@gmail.com
